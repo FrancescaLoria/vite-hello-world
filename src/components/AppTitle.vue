@@ -1,17 +1,13 @@
 <script>
-import AppTitle from "./components/AppTitle.vue";
 export default {
   data() {
     return {};
-  },
-  components: {
-    AppTitle,
   },
 };
 </script>
 
 <template>
-  <AppTitle />
+  <h1>La mia prima app con Vite!</h1>
 </template>
 
 <style></style>
